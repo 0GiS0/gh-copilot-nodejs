@@ -11,4 +11,34 @@ Para poder ejecutar estas demos necesitas:
 
 1. **¿Cómo puedo crear una API en Node.js?** 🤔 (hazle caso 🫡)
 2. Si no tienes ni idea de Node.js también puedes hacerle preguntas como esta: **¿Qué frameworks hay en Node.js para crear APIs?** 🤔
-3. **¿
+3. **@workspace /new crear una API con un CRUD de heroes en Node.js con Express.js**
+Este comando hay que escribirlo a mano (no vale con copiarlo directamente desde aquí porque entonces no va a interpretar bien el comando /new) ¡Dile que si! 💍
+
+## Demos guiadas a través del propio archivo
+
+1. Abre el archivo llamado ghcopilot-web/server.js
+2. Dentro de este pulsa enter justo después del comentario donde se explica que se va a crear un servidor web.
+3. Copilot te sugerirá el código en gris y si pulsas la tecla tabulador lo escribirá por ti.
+
+<img src="images/GH Copilot - Como ver la sugerencia en el propio archivo.png" />
+
+
+4. Con Control + Intro puedes ver todas las sugerencias.
+
+<img src="images/GH Copilot - Ver todas las sugerencias.png" width="50%">
+
+## Demos con GitHub Copilot Labs
+
+GitHub Copilot labs es una extensión que puedes instalar también en tu Visual Studio Code para probar nuevas ideas que se están desarrollando alrededor de GitHub Copilot.
+
+<img src="images/GH Copilot Labs.png" width="50%">
+
+En el directorio llamado labs tienes varios ejemplos que te van a permitir jugar con cada una de las secciones de esta extensión.
+
+### Explicar código
+
+### Language translation
+
+### Brushes
+
+### Test generation
