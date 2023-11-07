@@ -37,7 +37,16 @@ En el directorio llamado labs tienes varios ejemplos que te van a permitir jugar
 
 ### Explicar código
 
+Un ejemplo que puedes utilizar es labs/explain-code-demo.js. Solamente tienes que seleccionar la parte del código que quieres que te explique y hacer clic en el botón Explain Code de la extensión.
+
+<img src="images/GH Copilot Labs - Explain code.png" />
+
 ### Language translation
+
+Este mismo ejemplo puedes utilizarlo para que lo traduzca a otro lenguaje. Por ejemplo, puedes seleccionar de nuevo el código y elegir Python.
+
+<img src="images/GH Copilot Labs - Translate code.png" />
+
 
 ### Brushes
 
