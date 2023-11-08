@@ -24,7 +24,7 @@ Este comando hay que escribirlo a mano (no vale con copiarlo directamente desde 
 
 4. Con Control + Intro puedes ver todas las sugerencias.
 
-<img src="images/GH Copilot - Ver todas las sugerencias.png" width="50%">
+<img src="images/GH Copilot - Ver todas las sugerencias.png" width="50%" />
 
 ## Demos con GitHub Copilot Labs
 
@@ -32,7 +32,7 @@ Puedes conseguir acceso a esta extensión [a través de este enlace](https://git
 
 GitHub Copilot labs es una extensión que puedes instalar también en tu Visual Studio Code para probar nuevas ideas que se están desarrollando alrededor de GitHub Copilot.
 
-<img src="images/GH Copilot Labs.png" width="50%">
+<img src="images/GH Copilot Labs.png" width="50%" />
 
 En el directorio llamado labs tienes varios ejemplos que te van a permitir jugar con cada una de las secciones de esta extensión.
 
@@ -40,20 +40,20 @@ En el directorio llamado labs tienes varios ejemplos que te van a permitir jugar
 
 Un ejemplo que puedes utilizar es labs/explain-code-demo.js. Solamente tienes que seleccionar la parte del código que quieres que te explique y hacer clic en el botón Explain Code de la extensión.
 
-<img src="images/GH Copilot Labs - Explain code.png" />
+<img src="images/GH Copilot Labs - Explain code.png" width="50%">
 
 ### Language translation
 
 Este mismo ejemplo puedes utilizarlo para que lo traduzca a otro lenguaje. Por ejemplo, puedes seleccionar de nuevo el código y elegir Python.
 
-<img src="images/GH Copilot Labs - Translate code.png" />
+<img src="images/GH Copilot Labs - Translate code.png" width="50%" />
 
 
 ### Brushes
 
 Se trata de la botonera que tiene diferentes opciones preconstruídas:
 
-<img src="images/GH Copilot Labs - Brushes.png" />
+<img src="images/GH Copilot Labs - Brushes.png" width="50%" />
 
 1. **READABLE**: Te permite convertir el código en un formato más legible.
 
@@ -97,6 +97,6 @@ Puedes decirle cosas como: Pon este código en una función, o pon este código 
 
 Ahora puedes pedirle a GitHub Copilot que te sugiera un comentario para el commit que vas a hacer, en base a los cambios que has hecho en el código.
 
-<img src="images/GH Copilot te ayuda con los mensajes de tus commits.png" />
+<img src="images/GH Copilot te ayuda con los mensajes de tus commits.png" width="50%" />
 
 [Más información sobre GitHub Copilot](https://github.com/features/copilot)
