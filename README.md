@@ -11,8 +11,10 @@ Para poder ejecutar estas demos necesitas:
 
 1. **¿Cómo puedo crear una API en Node.js?** 🤔 (hazle caso 🫡)
 2. Si no tienes ni idea de Node.js también puedes hacerle preguntas como esta: **¿Qué frameworks hay en Node.js para crear APIs?** 🤔
-3. **@workspace /new crear una API con un CRUD de heroes en Node.js con Express.js**
+3. **/new crear una API con un CRUD de heroes en Node.js con Express.js**
 Este comando hay que escribirlo a mano (no vale con copiarlo directamente desde aquí porque entonces no va a interpretar bien el comando /new) ¡Dile que si! 💍
+4.**@vscode para que te ayude con Visual Studio code**. Con este comando puedes preguntarle a Copilot sobre Visual Studio Code. Por ejemplo: **@vscode ¿Cómo puedo abrir un archivo en Visual Studio Code?** 🤔
+5.**@workspace para preguntar sobre todo el workspace**. Hasta ahora solo era posible hablar con Copilot sobre el archivo en el que estás trabajando. Ahora puedes preguntarle sobre todo el workspace.
 
 ## Demos guiadas a través del propio archivo
 
