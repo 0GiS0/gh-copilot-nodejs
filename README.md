@@ -93,7 +93,11 @@ Puedes decirle cosas como: Pon este código en una función, o pon este código 
 
 ### Test generation
 
+Esta opción te permite generar tests para tu código.
+
 ### Reescribir a través de la bombilla 💡
+
+Cuando estés escribiendo código, si ves que la bombilla 💡 se enciende, puedes hacer clic en ella y te ofrecerá ayuda.
 
 ### Sugerencias de commits
 
